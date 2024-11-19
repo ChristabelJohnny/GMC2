@@ -1,1 +1,3 @@
 This is my first random git file to be stored in a GIT respository.
+
+This is a change made to the file random in the GIT-sample folder.
